@@ -1,0 +1,16 @@
+{
+  "name": "my-project",
+  "module": "index.ts",
+  "scripts": {
+    "dev": "bun --watch index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "http-status-codes": "^2.3.0",
+    "zod": "^4.0.16"
+  },
+  "type": "module",
+  "dependencies": {
+    "neverthrow": "^8.2.0"
+  }
+}
