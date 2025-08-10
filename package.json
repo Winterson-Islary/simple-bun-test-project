@@ -5,6 +5,7 @@
     "dev": "bun --watch index.ts"
   },
   "devDependencies": {
+    "@biomejs/biome": "2.1.4",
     "@types/bun": "latest",
     "http-status-codes": "^2.3.0",
     "zod": "^4.0.16"
